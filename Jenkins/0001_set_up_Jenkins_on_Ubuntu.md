@@ -1,5 +1,8 @@
 I planned to build an environment of Jenkins to learn CI.
 Ubuntu is selected to be the OS for this.
 
-# Step 1
+## Step 1
 Install Ubunut on PC.
+
+## Step 2
+Install Jenkins, following the [official documentation](https://jenkins.io/doc/book/installing/)
