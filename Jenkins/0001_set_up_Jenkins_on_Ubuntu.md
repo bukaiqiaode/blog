@@ -28,4 +28,4 @@ After installation, I also follow the instruction to set Java 8 to be default.
   sudo apt-get install oracle-java8-set-default
 ```
 
-## Back to [Index](./index.md)
+## Back to [index](./index.md)
