@@ -22,4 +22,10 @@ To install Java 8, I followed the [Oracle offical introduction](http://www.webup
   sudo apt-get update
   sudo apt-get install oracle-java8-installer
 ```
+
+After installation, I also follow the instruction to set Java 8 to be default.
+```shell
+  sudo apt-get install oracle-java8-set-default
+```
+
 ## Back to [Index](./index.md)
