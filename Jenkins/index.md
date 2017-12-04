@@ -1,3 +1,3 @@
 # Index for Jenkins related articles
 
--- [Set up of Jenkins](./0001_HowTo_set_up_Jenkins.md)
+- [Set up of Jenkins on Ubunut](./0001_set_up_Jenkins_on_Ubuntu.md.md)
