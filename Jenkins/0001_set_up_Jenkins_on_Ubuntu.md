@@ -3,6 +3,7 @@ Ubuntu is selected to be the OS for this.
 
 ## Step 1
 Install Ubuntu on PC.
+
 I used Ubuntu v14.04.1
 
 ## Step 2
