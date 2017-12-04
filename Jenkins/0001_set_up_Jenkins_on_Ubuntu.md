@@ -13,3 +13,5 @@ Install Java 8 **runtime** on Ubuntu.
 ```shell
   sudo apt-get install default-jre
 ```
+
+## Back to [Index](./index.md)
