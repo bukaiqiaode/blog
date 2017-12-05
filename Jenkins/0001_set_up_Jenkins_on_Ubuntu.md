@@ -28,4 +28,19 @@ After installation, I also follow the instruction to set Java 8 to be default.
   sudo apt-get install oracle-java8-set-default
 ```
 
+## Step 4
+Jenkins [official documentation](https://jenkins.io/doc/book/installing/) provided two ways to install Jenkins
+- Install Docker and run Jenkins using Docker.
+- Don't use Docker and run Jenkins with WAR file.
+
+I decided not to use Docker now, to reduce the complexity of my work.
+I follow the document and uses the below commands to install Jenkins.
+```shell
+    wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
+    sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+    sudo apt-get update
+    sudo apt-get install jenkins
+```
+
+
 ## Back to [index](./index.md)
