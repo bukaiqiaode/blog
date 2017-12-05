@@ -61,13 +61,6 @@ Start Jenkins, as root user.
 ```
 Find the password to unlock Jenkins, following [document](https://jenkins.io/doc/book/installing/#unlocking-jenkins)
 
-On my Ubuntu, password can be found by using command
-```
-  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
-```
-Or
-```
-  cat /var/log/jenkins/jenkins.log
-```
+On my Ubuntu, password can be found by using command `sudo cat /var/lib/jenkins/secrets/initialAdminPassword` or `cat /var/log/jenkins/jenkins.log`
 
 ## Back to [index](./index.md)
