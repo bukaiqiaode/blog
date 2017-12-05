@@ -53,7 +53,7 @@ I follow the document and uses the below commands to install Jenkins.
 ## Step 4
 > _Estimation: 20 minutes_
 
-Change the port to be '8080' following [document](https://jenkins.io/doc/book/installing/#debian-ubuntu)
+Change the port to be '8081' following [document](https://jenkins.io/doc/book/installing/#debian-ubuntu)
 
 Start Jenkins, as root user.
 ```
