@@ -2,13 +2,16 @@ I planned to build an environment of Jenkins to learn CI.
 Ubuntu is selected to be the OS for this.
 
 ## Step 1
+_Estimation: 40 minutes_<br/>
 Install Ubuntu on PC.<br/>
 I used Ubuntu **v14.04.1**
 
 ## Step 2
+_Estimation: 20 minutes_<br/>
 Review the [official documentation](https://jenkins.io/doc/book/installing/) to get the overview of the installation.
 
 ## Step 3
+_Estimation: 30 minutes_<br/>
 Install Java 8 **runtime** on Ubuntu.<br/>
 Firstly, I tried the default installation.
 ```shell
@@ -29,6 +32,7 @@ After installation, I also follow the instruction to set Java 8 to be default.
 ```
 
 ## Step 4
+_Estimation: 10 minutes_<br/>
 Jenkins [official documentation](https://jenkins.io/doc/book/installing/) provided two ways to install Jenkins
 - Install Docker and run Jenkins using Docker.
 - Don't use Docker and run Jenkins with WAR file.
