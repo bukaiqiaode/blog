@@ -50,5 +50,24 @@ I follow the document and uses the below commands to install Jenkins.
     sudo apt-get install jenkins
 ```
 
+## Step 4
+> _Estimation: 20 minutes_
+
+Change the port to be '8080' following [document](https://jenkins.io/doc/book/installing/#debian-ubuntu)
+
+Start Jenkins, as root user.
+```
+  sudo /etc/init.d/jenkins start
+```
+Find the password to unlock Jenkins, following [document](https://jenkins.io/doc/book/installing/#unlocking-jenkins)
+
+On my Ubuntu, password can be found by using command
+```
+  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+```
+Or
+```
+  cat /var/log/jenkins/jenkins.log
+```
 
 ## Back to [index](./index.md)
