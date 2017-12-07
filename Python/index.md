@@ -4,4 +4,4 @@
 - [How to install Django on Ubuntu, part 3](./0003_Set_up_Django_under_Ubuntu_3.md)
 - [How to install Django on Ubuntu, part 4](./0004_Set_up_Django_under_Ubuntu_4.md)
 
-# Back to [Home](../README.md)
+## Back to [Home](../README.md)
