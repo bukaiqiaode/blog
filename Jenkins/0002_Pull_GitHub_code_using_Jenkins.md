@@ -38,6 +38,7 @@ Select to install the plug-in and wait it to be finished.
 Click on 'Apply'
 
 ## Step 10
-Done. Now back to the portal of the newly created item, and wait for it to be build~
+Done. <br/>
+Now back to the portal of the newly created item, and wait for it to be build~
 
 ## Back to [index](./index.md)
