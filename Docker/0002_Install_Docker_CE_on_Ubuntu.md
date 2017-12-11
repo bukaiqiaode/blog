@@ -53,6 +53,9 @@ After installed, the Docker deamon will start automatically. Use below command t
 ```shell
   sudo docker run hello-world
 ```
+And I see below output, which mean the installation is correct.
+
+![Image](../images/201712111712_docker_helloworld.png)
 
 ## References
 - https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
