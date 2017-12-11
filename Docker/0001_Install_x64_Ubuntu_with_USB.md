@@ -22,4 +22,10 @@ Reboot the PC with USB plugged, then proceed to install Ubuntu.
 - https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
 - https://help.ubuntu.com/lts/installation-guide/amd64/install.en.pdf
 
+## New words learned
+```
+  orchestration
+  bare-metal
+```
+
 ## Back to [index](./index.md)
