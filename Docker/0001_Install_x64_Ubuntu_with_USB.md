@@ -18,5 +18,8 @@ From the command-console, copy the ISO file directly to the USB, not to any part
 ## Step 3
 Reboot the PC with USB plugged, then proceed to install Ubuntu.
 
+## References
+- https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
+- https://help.ubuntu.com/lts/installation-guide/amd64/install.en.pdf
 
 ## Back to [index](./index.md)
