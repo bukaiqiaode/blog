@@ -60,4 +60,12 @@ And I see below output, which mean the installation is correct.
 ## References
 - https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
 
+## New words learned
+```
+  vulnerability
+  stability
+  privileged
+  audit
+```
+
 ## Back to [index](./index.md)
