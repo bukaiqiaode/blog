@@ -46,5 +46,6 @@ Review the information in the 'Virgo Model' dialog and click 'OK'
 
 ## Step 3, review the code generated
 
-
+## References:
+- http://blog.csdn.net/dakaring/article/details/46300963
 ## Back to [index](./index.md)
