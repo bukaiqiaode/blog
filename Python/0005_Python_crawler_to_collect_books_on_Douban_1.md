@@ -26,7 +26,8 @@
         print 'done'
 ```
 运行一下，先证明我们没有起步就带bug出门。
-- Python_0005_0001.png
+
+![Image](../images/Python_0005_0001.png)
 
 ## 把刚才安装的库引入进来
 ```python
@@ -94,7 +95,10 @@
         print 'done'
 ```
 运行一把，看看效果。
-- Python_0005_0002.png
+
+![Image](../images/Python_0005_0002.png)
 
 华丽丽的失败啊！！！
 为什么？怎么解决？请看本系列的第二篇~~
+
+## Back to [index](./index.md)
