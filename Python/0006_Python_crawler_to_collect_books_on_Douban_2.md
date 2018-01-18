@@ -5,7 +5,7 @@
 上集说到，简简单单地请求了一个网页，就出错了~
 
 ## 为什么
-我们先用浏览器打开https://book.douban.com/top250?start=0，查看源码。在页面的最上面几行，可以看到
+我们先用浏览器打开https://book.douban.com/top250?start=0 查看源码。在页面的最上面几行，可以看到
 ```html
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 ```
@@ -13,8 +13,10 @@
 
 ## 那又是为什么
 其实这不是python的锅，而是windows命令行的问题。在windows命令行的顶部点击鼠标右键，选择查看windows命令行的属性。
-- Python_0005_0003.png
-- Python_0005_0004.png
+
+![Image](../images/Python_0005_0003.png)
+
+![Image](../images/Python_0005_0004.png)
 
 ## 这是什么意思呢
 我也不知道，肯定和utf-8以及'969'有关系~ </p>
@@ -57,6 +59,10 @@
         print 'done'
 ```
 再次运行，问题解决！
-- Python_0005_0005.png
 
+![Image](../images/Python_0005_0005.png)
 
+## References
+- https://www.cnblogs.com/daxiong2014/p/5488383.html
+
+## Back to [index](./index.md)
