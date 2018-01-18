@@ -4,7 +4,7 @@
 
 ## Python的版本
 ```
-  Python 2.7.13
+  Python 2.7.13, under Windows 10 64bit.
 ```
 
 ## 安装需要的类库
