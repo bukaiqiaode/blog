@@ -18,7 +18,7 @@
           print "Done"
 ```
 
-- 图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片
+![Image](../images/python_mysql_chinese_characters_0001.png)
 
 
 ## 接下来，引入`mysql.connector`的包，并定义连接到MySQL服务器需要使用的参数
@@ -92,7 +92,8 @@
 
           print "Done"
 ```
-- 图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片
+
+![Image](../images/python_mysql_chinese_characters_0002.png)
 
 运行后，出现错误，提示数据库不存在。这很正常，这个数据库本来就不该存在。<br/>
 添加创建数据库的函数，调用它来创建数据库。创建数据库时，指定使用 **utf-8** 编码。
@@ -153,7 +154,8 @@
 
           print "Done"
 ```
-- 图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片图片
+
+![Image](../images/python_mysql_chinese_characters_0003.png)
 
 运行成功，数据库建立了~
 
@@ -236,8 +238,11 @@
           print "Done"
 ```
 
-- 运行无错
-- 在服务器端，查看数据库的内容，建立成功
+![Image](../images/python_mysql_chinese_characters_0004.png)
+
+![Image](../images/python_mysql_chinese_characters_0004_a.png)
+
+![Image](../images/python_mysql_chinese_characters_0004_b.png)
 
 ## 向数据表中插入一条不带中文的记录
 ```python
@@ -326,8 +331,9 @@
 
           print "Done"
 ```
-- 插入成功
-- 查看数据库，数据在了。
+![Image](../images/python_mysql_chinese_characters_0005.png)
+
+![Image](../images/python_mysql_chinese_characters_0005_a.png)
 
 ## 插入一条带中文字符的数据
 ```python
@@ -416,7 +422,11 @@
 
           print "Done"
 ```
-
 运行起来，果然出错了！
 
-## 怎么破？请看本系列的下一篇~~~
+![Image](../images/python_mysql_chinese_characters_0006.png)
+
+## 如何解决这个问题？
+请看本系列的下一篇~~~
+
+## Back to [index](./index.md)
