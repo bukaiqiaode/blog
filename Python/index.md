@@ -8,5 +8,6 @@
 - [Crawler books on douban, part 3](./0007_Python_crawler_to_collect_books_on_Douban_3.md)
 - [Use Python to insert Chinese characters into MySQL database, part 1](./0008_Python_MySQL_ChineseCharacters_1.md)
 - [Use Python to insert Chinese characters into MySQL database, part 2](./0009_Python_MySQL_ChineseCharacters_2.md)
+- [Uninstall & install apache2 on Ubuntu 16.04](./0010_reinstall_apache_on_Ubuntu.md)
 
 ## Back to [Home](../README.md)
