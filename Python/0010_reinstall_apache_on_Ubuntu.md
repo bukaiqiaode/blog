@@ -20,19 +20,31 @@ Finally, check if there is any configuration files or manual pages belonging to 
   whereis apche2
 ```
 
+![Image](../images/apache2_001.png)
+
+![Image](../images/apache2_002.png)
+
 Remove all the other contents not used any more.
 
 ## Install apache2
 Install with command `apt-get install apache2` <br/>
 Edit `/etc/apache2/ports.conf` to change 80-->81, 443-->444 <br/>
+
+![Image](../images/apache2_003.png)
+
 Edit `/etc/apache2/sites-enabled/000-default.conf`with 80-->81 <br/>
+
+![Image](../images/apache2_004.png)
+
 Use `service apache2 restart' to restart the service.
 
 ## Verify the installation
 Access http://xxx.xxx.xxx.xxx:81/ to see the welcome page of apache2.
 
+![Image](../images/apache2_005.png)
+
 ## References:
 - http://xmodulo.com/how-to-uninstall-and-remove-apache2-on-ubuntu-debian.html
 - http://www.linuxidc.com/Linux/2013-05/84312.htm
 
-##
+## Back to [index](./index.md)
