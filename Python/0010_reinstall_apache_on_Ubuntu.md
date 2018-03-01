@@ -17,7 +17,7 @@ In addition, use autoremove option as well, to remove any other dependencies tha
 
 Finally, check if there is any configuration files or manual pages belonging to Apache2, which are still not removed.
 ```bash
-  whereis apche2
+  whereis apache2
 ```
 
 ![Image](../images/apache2_001.png)
