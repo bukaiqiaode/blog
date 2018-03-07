@@ -36,7 +36,42 @@ Ubuntu下启用Apache2的代理转发需要以下步骤：
 虽然使用Apache的转发可以避免Python直接暴露在外，通过修改转发规则也可以屏蔽掉大部分"脏请求"，但我们还是希望能够继续对请求进行过滤，尽量使得只有合法的请求才能到达Python服务。同时我们还希望能够实践服务发现、负载均衡、服务降级与恢复等方面的技术。因此我们选择在Apache和Python服务中间增加一层Spring Boot逻辑，对转发过来的请求进行过滤，并实践其他技术。</br>
 外部请求 -> Apache(过滤掉格式错误的请求) -> Spring Boot层(从业务层面检查请求的合法性) -> Python服务(业务检查，数据处理) -> MySQL(持久化数据)
 
+Maven在pom.xml中配置对okhttp3的引用.
+```xml
+		<dependency>
+			<groupId>com.squareup.okhttp3</groupId>
+			<artifactId>okhttp</artifactId>
+			<version>3.10.0</version>
+		</dependency>
+```
+使用okhttp3发送POST请求.
+```java
+    /** 
+     * 发送httppost请求 
+     *  
+     * @param url 
+     * @param data  提交的参数为key=value&key1=value1的形式 
+     * @return 
+     */  
+	private String httpPost(String url, String data) {  
+        String result = null;  
+        OkHttpClient httpClient = new OkHttpClient();  
+        RequestBody requestBody = RequestBody.create(MediaType.parse("text/html;charset=utf-8"), data);  
+        Request request = new Request.Builder().url(url).post(requestBody).build();  
+        try {  
+            Response response = httpClient.newCall(request).execute();  
+            result = response.body().string();  
+        } catch (IOException e) {  
+            e.printStackTrace();  
+        }  
+        return result;  
+    }
+```
+
+
 ## 参考与引用
 - 配置 Apache转发 https://stackoverflow.com/questions/33703965/spring-boot-running-app-on-port-80
 - Spring Boot搭建Restful服务 https://spring.io/guides/gs/rest-service/
 - Java中String的比较 https://www.cnblogs.com/dongguol/p/5845076.html
+- OkHttp的Github http://square.github.io/okhttp/
+- GET与POST的区别 https://zhuanlan.zhihu.com/p/22536382
