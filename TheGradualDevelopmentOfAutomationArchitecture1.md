@@ -74,4 +74,3 @@ Maven在pom.xml中配置对okhttp3的引用.
 - Spring Boot搭建Restful服务 https://spring.io/guides/gs/rest-service/
 - Java中String的比较 https://www.cnblogs.com/dongguol/p/5845076.html
 - OkHttp的Github http://square.github.io/okhttp/
-- GET与POST的区别 https://zhuanlan.zhihu.com/p/22536382
