@@ -37,4 +37,6 @@ Ubuntu下启用Apache2的代理转发需要以下步骤：
 外部请求 -> Apache(过滤掉格式错误的请求) -> Spring Boot层(从业务层面检查请求的合法性) -> Python服务(业务检查，数据处理) -> MySQL(持久化数据)
 
 ## 参考与引用
-- https://stackoverflow.com/questions/33703965/spring-boot-running-app-on-port-80
+- 配置 Apache转发 https://stackoverflow.com/questions/33703965/spring-boot-running-app-on-port-80
+- Spring Boot搭建Restful服务 https://spring.io/guides/gs/rest-service/
+- Java中String的比较 https://www.cnblogs.com/dongguol/p/5845076.html
