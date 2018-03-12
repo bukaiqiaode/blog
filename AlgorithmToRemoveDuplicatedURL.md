@@ -29,6 +29,47 @@
           ret_val = ret_val + key
       return ret_val
 ```
+辅助函数，生成指定数目的随机url数组
+```python
+    def generate_data_group(num):
+        arr_out = []
+        counter = 0
+        while counter < num:
+            counter += 1
+            arr_out.append(generate_url())        
+        return arr_out
+```
+辅助函数，将url数组的内容写到指定的文件中
+```python    
+    import os
+    
+    def generate_data_file(arr_out, filename):
+        if os.path.exists(filename):
+            os.remove(filename)
+        f_out = open(filename, "a")
+        for item in arr_out:
+            f_out.write(item + '\n')
+        f_out.close()
+        return
+```
+辅助函数，生成10个文件，每个文件包含1000w个随机的url
+```python
+    import time
+    
+    def prepare_data():    
+        num = 1000 * 10000
+
+        for item in file_names:
+            arr_out = []
+            start = time.time()
+            arr_out = generate_data_group(num)    
+            generate_data_file(arr_out, item)
+            end = time.time()
+            print "prepared: ", item , " in " , end - start
+
+        return
+```
+
 
 ## 降低问题规模
 我们知道，1GB = 1024MB = 1024 * 1024KB = 1024 * 1024 * 1024B ~= 10^9 B<br/>
