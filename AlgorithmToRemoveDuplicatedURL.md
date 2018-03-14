@@ -121,7 +121,13 @@ hash函数的选择是一个技术活，有很多思考的方向，但是最终�
                 dup_dict[t_key] = 1
         end = time.time()
 ```
-
+通过遍历字典来统计有多少个url是重复的
+```python
+        dup_counter = 0
+        for item in list(dup_dict.keys()):
+            if dup_dict[item] > 1:
+                dup_counter += 1
+```
 ## 改进
 上面采用的是粗暴的算法，假定数据的重覆率很高，甚至全部相同。<br />
 如果数据的分散性很好，我们就不必担心初次处理后出现大文件，那么我们可以对算法进行更好的改进。<br />
