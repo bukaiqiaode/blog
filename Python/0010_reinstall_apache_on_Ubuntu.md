@@ -36,7 +36,7 @@ Edit `/etc/apache2/sites-enabled/000-default.conf`with 80-->81 <br/>
 
 ![Image](../images/apache2_004.png)
 
-Use `service apache2 restart' to restart the service.
+Use `service apache2 restart` to restart the service.
 
 ## Verify the installation
 Access http://xxx.xxx.xxx.xxx:81/ to see the welcome page of apache2.
