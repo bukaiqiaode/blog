@@ -4,6 +4,7 @@ I selected to download php-71 `VC14 x64 Thread Safe (2018-Jul-19 11:54:52)`from 
 # Step 2 Make a copy of the configuration file
 - Make a copy of the configuration file `copy php.ini-development php.ini`
 - Open the file and change the value for `extension_dir `
+
 ```shell
 extension_dir = "E:\Downloads\tools\php71\ext"
 ```
@@ -17,21 +18,26 @@ extension_dir = "E:\Downloads\tools\php71\ext"
 
 # Step 4 Test the installation
 - Create a file `test.php` under `E:\Downloads\tools\Apache24\htdocs`
+
 ```shell
 E:\Downloads\tools\Apache24\htdocs>type test.php
 <?php  phpinfo(); ?>
 ```
+
 - Access from the browser & check `http://localhost:7070/test.php`
 
 # Step 5 Download and install think-php
 - Create a folder for it
 - Change directory to the folder
+
 ```shell
 E:\Downloads\tools>mkdir tp5
 E:\Downloads\tools>cd tp5
 E:\Downloads\tools\tp5>
 ```
+
 - Clone the source code using `git`
+
 ```shell
 E:\Downloads\tools\tp5>cd ..
 
@@ -58,6 +64,7 @@ E:\Downloads\tools\tp5>
 
 # Step 6 Configure for Apache
 - Copy the folder `tp5` into `E:\Downloads\tools\Apache24\htdocs`
+
 ```shell
 E:\Downloads\tools\Apache24\htdocs>tree .
 卷 Tools 的文件夹 PATH 列表
@@ -127,7 +134,9 @@ E:\DOWNLOADS\TOOLS\APACHE24\HTDOCS
     │  └─tpl
     └─vendor
 ```
+
 - Modify `conf/httpd.conf`, remove the `indexes` for the directory access
+
 ```xml
 <Directory "${SRVROOT}/htdocs">
     Options FollowSymLinks
@@ -136,6 +145,7 @@ E:\DOWNLOADS\TOOLS\APACHE24\HTDOCS
 </Directory>
 ```
 - Configure Apache to recognize index.php
+
 ```xml
 <IfModule dir_module>
     DirectoryIndex index.php index.html
