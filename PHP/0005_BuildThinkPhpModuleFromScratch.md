@@ -185,7 +185,12 @@ Update function `index()` to invoke function `check_request_type()`.
         return "hello from Index::index()".($this->check_request_type());
     }
 ```
-Access 
+
+Access `http://localhost:7070/sample/test1.php` again, and the output from `check_request_type()` is shown.
+```shell
+C:\>curl http://localhost:7070/sample/test1.php
+hello from Index::index()a get
+```
 
 
 ## References
