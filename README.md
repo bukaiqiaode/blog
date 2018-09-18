@@ -3,7 +3,7 @@
 ### Articles related to [Jenkins](./Jenkins/index.md)
 ### Articles related to [PHP](./PHP/index.md)
 ### Articles related to [Python](./Python/index.md)
-
+### [Home](https://bukaiqiaode.github.io/blog/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
