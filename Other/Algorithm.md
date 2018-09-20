@@ -15,4 +15,4 @@ unsigned int，就算他是32位的吧，2 ^ 32 = 4 G个数字。使用Bitmap的
 用512 MB的内存，建立一个Bitmap数组。扫描那40亿个数，如果某个数字出现，就将Bitmap数组的对应位置赋值1。这样通过一轮扫描，就保存了40亿整数里面都有哪些数。
 对于某个给定的数，检查Bitmap对应的位置，就知道这个数字是否在40亿个数字中出现过了。
 
-# Back to [index](./index.md)
+## Back to [index](./index.md)
