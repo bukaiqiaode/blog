@@ -1,4 +1,5 @@
-# Create table in database
+# Simple PHP example for user log-in
+## Create table in database
 To make the sample simple, the table only containts the basic informaiton needed for log into the system.
 
 ```sql
@@ -40,8 +41,12 @@ insert into think_user(user_name, user_tel, user_password)
 values('username1', '13811112222', MD5('1234abcd'));
 ```
 
-# References
+## Prepare folder structure for the site
+
+
+## References
 - [ThinkPHP5开发(一)实现登录功能](https://blog.csdn.net/u012995856/article/details/51842480)
 - [MYSQL 的 primary key 和unique key 的区别](https://blog.csdn.net/yaoxy/article/details/4353115)
 - [MySQL系统时间函数NOW(),CURRENT_TIMESTAMP(),SYSDATE()的区别](https://www.cnblogs.com/drcoding/p/4624851.html)
 - [解决mysql的timestamp的only one current_timestamp限制](https://blog.csdn.net/wp270280522/article/details/40183175)
+- [Apache的Order Allow,Deny 详解](https://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)

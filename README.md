@@ -1,9 +1,12 @@
+
+### [Home](https://bukaiqiaode.github.io/blog/)
 ### Articles related to [Android](./Android/index.md)
 ### Articles related to [Docker](./Docker/index.md)
 ### Articles related to [Jenkins](./Jenkins/index.md)
 ### Articles related to [PHP](./PHP/index.md)
 ### Articles related to [Python](./Python/index.md)
-### [Home](https://bukaiqiaode.github.io/blog/)
+### [Others](./Other/index.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

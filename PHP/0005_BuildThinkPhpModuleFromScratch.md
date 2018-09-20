@@ -192,7 +192,8 @@ C:\>curl http://localhost:7070/sample/test1.php
 hello from Index::index()a get
 ```
 
-
 ## References
 - [ThinkPHP-5 official book](https://www.kancloud.cn/manual/thinkphp5_1/353953)
 - [Folder structur of module in ThinkPhp-5](https://www.kancloud.cn/manual/thinkphp5_1/353950)
+
+## Back to [index](./index.md)
