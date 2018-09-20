@@ -39,5 +39,6 @@
 - 20180920 [写给小白——recyclerview的基本使用](https://www.jianshu.com/p/bb6b029de04f)
 - 20180920 [码云如何保护你的数据——内部安全治理篇](https://mp.weixin.qq.com/s/mtiEt7WVirJlaZ7M3hRVcA)
 - 20180920 [基于 G6 和 React 的可视化图编辑器 GGEditor](https://mp.weixin.qq.com/s/sd7Yhwepsg75M6aBLgKRmQ)
+- 20180920 [产品设计中“+”功能的相关思考](https://mp.weixin.qq.com/s/kmQnyP24jLQrRnmD7evevA)
 
 ## Back to [index](./index.md)
