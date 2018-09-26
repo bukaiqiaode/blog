@@ -5,7 +5,7 @@ Add switch to enable remote debug in `php.ini`
 xdebug.remote_enable = on 
 xdebug.remote_autostart = on
 ```
-
+## Install extension `GitLens` for VS-Code
 ## Install extension `PHP Debug` for VS-Code
 ## Install extension `PHP IntelliSense` for VS-Code
 ## Configure VS-Code to let it know location of PHP binary
