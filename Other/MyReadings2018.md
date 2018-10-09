@@ -41,4 +41,7 @@
 - 20180920 [基于 G6 和 React 的可视化图编辑器 GGEditor](https://mp.weixin.qq.com/s/sd7Yhwepsg75M6aBLgKRmQ)
 - 20180920 [产品设计中“+”功能的相关思考](https://mp.weixin.qq.com/s/kmQnyP24jLQrRnmD7evevA)
 
+# 2018-10
+- 20181009 [以手机淘宝为例，探索流量分发设计方法](https://mp.weixin.qq.com/s/oGvTb1eY3yrgJE90I5IBRQ)
+
 ## Back to [index](./index.md)
