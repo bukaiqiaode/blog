@@ -44,4 +44,9 @@
 # 2018-10
 - 20181009 [以手机淘宝为例，探索流量分发设计方法](https://mp.weixin.qq.com/s/oGvTb1eY3yrgJE90I5IBRQ)
 
+- 20181010 [nginx配置返回文本或json](https://www.cnblogs.com/freeweb/p/5944894.html)
+- 20181010 [Nginx静态文件路径配置](https://blog.csdn.net/spark_csdn/article/details/80836326)
+
+- 20181011 [nginx之访问静态文件](https://www.cnblogs.com/yuan-yuan/p/4892301.html)
+
 ## Back to [index](./index.md)
