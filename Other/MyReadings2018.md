@@ -49,4 +49,7 @@
 
 - 20181011 [nginx之访问静态文件](https://www.cnblogs.com/yuan-yuan/p/4892301.html)
 
+- 20181012 [HashMap? ConcurrentHashMap? 看完这篇没人能难住你！](https://my.oschina.net/crossoverjie/blog/1861138)
+- 20181012 [详解：淘宝大秒杀系统是如何设计的？](https://my.oschina.net/u/3972077/blog/2231326)
+
 ## Back to [index](./index.md)
