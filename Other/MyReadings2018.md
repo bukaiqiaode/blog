@@ -52,4 +52,8 @@
 - 20181012 [HashMap? ConcurrentHashMap? 看完这篇没人能难住你！](https://my.oschina.net/crossoverjie/blog/1861138)
 - 20181012 [详解：淘宝大秒杀系统是如何设计的？](https://my.oschina.net/u/3972077/blog/2231326)
 
+- 20181015 [MYSQL 5.5不支持字段类型为datetime且默认值为NOW()的建表语句](https://blog.csdn.net/qq_37929849/article/details/78507210)
+- 20181015 [mysql中utf8和utf8mb4区别](https://www.cnblogs.com/beyang/p/7580814.html)
+- 20181015 [关于 MySQL 通用查询日志和慢查询日志分析](https://mp.weixin.qq.com/s/SL4dsWnJ4oIV2DHBYOulvA)
+
 ## Back to [index](./index.md)
