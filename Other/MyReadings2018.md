@@ -56,4 +56,6 @@
 - 20181015 [mysql中utf8和utf8mb4区别](https://www.cnblogs.com/beyang/p/7580814.html)
 - 20181015 [关于 MySQL 通用查询日志和慢查询日志分析](https://mp.weixin.qq.com/s/SL4dsWnJ4oIV2DHBYOulvA)
 
+- 20181017 [单点登录原理与简单实现](https://blog.csdn.net/u011277123/article/details/53404269)
+
 ## Back to [index](./index.md)
