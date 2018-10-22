@@ -43,21 +43,19 @@
 
 # 2018-10
 - 20181009 [以手机淘宝为例，探索流量分发设计方法](https://mp.weixin.qq.com/s/oGvTb1eY3yrgJE90I5IBRQ)
-
 - 20181010 [nginx配置返回文本或json](https://www.cnblogs.com/freeweb/p/5944894.html)
 - 20181010 [Nginx静态文件路径配置](https://blog.csdn.net/spark_csdn/article/details/80836326)
-
 - 20181011 [nginx之访问静态文件](https://www.cnblogs.com/yuan-yuan/p/4892301.html)
-
 - 20181012 [HashMap? ConcurrentHashMap? 看完这篇没人能难住你！](https://my.oschina.net/crossoverjie/blog/1861138)
 - 20181012 [详解：淘宝大秒杀系统是如何设计的？](https://my.oschina.net/u/3972077/blog/2231326)
 
 - 20181015 [MYSQL 5.5不支持字段类型为datetime且默认值为NOW()的建表语句](https://blog.csdn.net/qq_37929849/article/details/78507210)
 - 20181015 [mysql中utf8和utf8mb4区别](https://www.cnblogs.com/beyang/p/7580814.html)
 - 20181015 [关于 MySQL 通用查询日志和慢查询日志分析](https://mp.weixin.qq.com/s/SL4dsWnJ4oIV2DHBYOulvA)
-
 - 20181017 [单点登录原理与简单实现](https://blog.csdn.net/u011277123/article/details/53404269)
-
 - 20181019 [Linux netstat命令详解](https://mp.weixin.qq.com/s/zApKruVMHOM1ebfOKqmO6g)
+
+- 20181022 [漫画：如何用栈实现队列？](https://mp.weixin.qq.com/s/IiOUgS5jZ6pgVqUAJHwNKg)
+- 20181022 [mysql grant 用户权限总结](https://blog.csdn.net/anzhen0429/article/details/78296814)
 
 ## Back to [index](./index.md)
