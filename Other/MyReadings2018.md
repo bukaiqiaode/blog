@@ -57,5 +57,6 @@
 
 - 20181022 [漫画：如何用栈实现队列？](https://mp.weixin.qq.com/s/IiOUgS5jZ6pgVqUAJHwNKg)
 - 20181022 [mysql grant 用户权限总结](https://blog.csdn.net/anzhen0429/article/details/78296814)
+- 20181022 [设计一个通用的BaseActivity](https://blog.csdn.net/qq_25749749/article/details/81567766)
 
 ## Back to [index](./index.md)
