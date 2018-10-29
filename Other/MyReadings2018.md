@@ -60,5 +60,7 @@
 - 20181022 [设计一个通用的BaseActivity](https://blog.csdn.net/qq_25749749/article/details/81567766)
 
 - 20181029 [消息队列及常见消息队列介绍](http://www.cnblogs.com/Terry-Wu/p/7644279.html)
+- 20181029 [RSA加密算法的java实现](https://blog.csdn.net/cz0217/article/details/78426733)
+- 20181029 [Java--使用Base64编码对url传值](https://blog.csdn.net/qq_36411874/article/details/79624739)
 
 ## Back to [index](./index.md)
