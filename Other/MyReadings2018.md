@@ -59,4 +59,6 @@
 - 20181022 [mysql grant 用户权限总结](https://blog.csdn.net/anzhen0429/article/details/78296814)
 - 20181022 [设计一个通用的BaseActivity](https://blog.csdn.net/qq_25749749/article/details/81567766)
 
+- 20181029 [消息队列及常见消息队列介绍](http://www.cnblogs.com/Terry-Wu/p/7644279.html)
+
 ## Back to [index](./index.md)
