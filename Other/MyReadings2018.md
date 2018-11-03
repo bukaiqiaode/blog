@@ -62,5 +62,9 @@
 - 20181029 [消息队列及常见消息队列介绍](http://www.cnblogs.com/Terry-Wu/p/7644279.html)
 - 20181029 [RSA加密算法的java实现](https://blog.csdn.net/cz0217/article/details/78426733)
 - 20181029 [Java--使用Base64编码对url传值](https://blog.csdn.net/qq_36411874/article/details/79624739)
+- 20181030 [如何理解 Linux shell中“2>&1”?](https://mp.weixin.qq.com/s/-9uO7lc_xfvpZxEsaez7HQ)
+- 20181101 [Apache AH01630: client denied by server configuration错误解决方法](https://www.linuxidc.com/Linux/2017-02/140103.htm)
+- 20181103 [HashMap 怎么 hash？又如何 map？](https://mp.weixin.qq.com/s/ev62FoC1eb1tm6EiHfKHuw)
+- 20181103 [如何在2周内交付85%以上需求？阿里工程师这么做](https://mp.weixin.qq.com/s/M0S0sxJy3oxhgsyqTcLpaQ)
 
 ## Back to [index](./index.md)
