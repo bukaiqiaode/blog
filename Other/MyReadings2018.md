@@ -67,4 +67,6 @@
 - 20181103 [HashMap 怎么 hash？又如何 map？](https://mp.weixin.qq.com/s/ev62FoC1eb1tm6EiHfKHuw)
 - 20181103 [如何在2周内交付85%以上需求？阿里工程师这么做](https://mp.weixin.qq.com/s/M0S0sxJy3oxhgsyqTcLpaQ)
 
+- 20181108 [二叉堆是什么鬼？](https://mp.weixin.qq.com/s/VlGCOaSjM4NS_ZloQuhwLA)
+
 ## Back to [index](./index.md)
