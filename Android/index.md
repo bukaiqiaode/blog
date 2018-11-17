@@ -6,6 +6,7 @@
 - [One utility-class to operate Shared-Preferences](./0005_A_SharedPreferences_Utility_Class.md)
 - [One utility-class to operate RSA](./0006_RSA_Utils.md)
 - [Learn to use AsyncTask to load image from internet](./0007_AsyncTask_Study.md)
+- [Use WeakReference when work with Handler](./0008_WeakReference_Handler.md)
 
 
 ## Back to [Home](../README.md)
