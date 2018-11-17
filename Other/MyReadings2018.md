@@ -68,5 +68,8 @@
 - 20181103 [如何在2周内交付85%以上需求？阿里工程师这么做](https://mp.weixin.qq.com/s/M0S0sxJy3oxhgsyqTcLpaQ)
 
 - 20181108 [二叉堆是什么鬼？](https://mp.weixin.qq.com/s/VlGCOaSjM4NS_ZloQuhwLA)
+- 20181114 [一周一定理No.4 RSA解密算法](https://mp.weixin.qq.com/s/TOdQT0WZogTDhCz_WfURNw)
+- 20181116 [一个Linux命令帮你对文本排序](https://mp.weixin.qq.com/s/I6bH30AOionkI76JxO0JJw)
+- 20181116 [基于SpringCloud的微服务架构演变史？](https://mp.weixin.qq.com/s/nLjmWGa0OyueddiV_a13Eg)
 
 ## Back to [index](./index.md)
