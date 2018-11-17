@@ -71,5 +71,7 @@
 - 20181114 [一周一定理No.4 RSA解密算法](https://mp.weixin.qq.com/s/TOdQT0WZogTDhCz_WfURNw)
 - 20181116 [一个Linux命令帮你对文本排序](https://mp.weixin.qq.com/s/I6bH30AOionkI76JxO0JJw)
 - 20181116 [基于SpringCloud的微服务架构演变史？](https://mp.weixin.qq.com/s/nLjmWGa0OyueddiV_a13Eg)
+- 20181117 [Gson解析Json数据的两种方式](https://blog.csdn.net/huplion/article/details/78984977)
+- 20181117 [解决Android客户端RSA解密部分乱码的问题](https://blog.csdn.net/totcw/article/details/72820444)
 
 ## Back to [index](./index.md)
