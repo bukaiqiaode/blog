@@ -1,7 +1,10 @@
 # Define custom title-bar for Activity
 ## Steps
-1. 在`res\layout`下，新建一个布局文件
+
+1. 在 `res\layout` 下，新建一个布局文件
+
 > my_title_bar.xml
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -34,8 +37,10 @@
 </RelativeLayout>
 ```
 
-2. 在`controls`package下，新建一个MyTitleLayout的java类
+2. 在 `controls` package下，新建一个MyTitleLayout的java类
+
 > MyTitleLayout.java
+
 ```java
 package com.mydemo.demoapplication.controls;
 
@@ -64,6 +69,7 @@ public class MyTitleLayout extends LinearLayout {
 ```
 
 3. 在需要用到此标题栏的Activity中的布局文件中引入此标题栏即可
+
 ```xml
     <com.mydemo.demoapplication.controls.MyTitleLayout
         android:layout_width="match_parent"

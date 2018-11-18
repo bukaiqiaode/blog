@@ -1,7 +1,9 @@
 # Use WeakReference when work with Handler
 ## 基本思路
 1. 将Handler定义在Activity的外部。
+
 2. Handler的通过构造函数，持有Activity的弱引用。
+
 ```java
     private WeakReference<ExHandlerActivity> mActivity;
     public ExHandler1(ExHandlerActivity mActivity) {
@@ -10,6 +12,7 @@
 ```
 
 3. Activity在自己的内部，初始化一个Handler的实例`handler1 = new ExHandler1(this);`，并使用Handler的实例发送消息。
+
 ```java
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
@@ -25,7 +28,9 @@
 ```
 
 4. Handler收到消息后，判断持有的Activity引用是否还存在。
+
 5. 如果存在，则根据消息，反过来调用Activity的方法进行业务逻辑的处理。
+
 ```java
     @Override
     public void handleMessage(Message msg) {
@@ -43,7 +48,9 @@
 ```
 
 ## Activity的全部代码
+
 > activity_ex_handler.xml
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -64,6 +71,7 @@
 ```
 
 > ExHandlerActivity.java
+
 ```java
 package com.mydemo.demoapplication.activity;
 
@@ -107,7 +115,9 @@ public class ExHandlerActivity extends AppCompatActivity {
 
 
 ## ExHandler1的全部代码
+
 > ExHandler1.java
+
 ```java
 package com.mydemo.demoapplication.handlers;
 

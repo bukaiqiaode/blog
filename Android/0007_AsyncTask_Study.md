@@ -1,16 +1,22 @@
 # Learn to use AsyncTask
 ## 基本思路
 1. App启动的时候，启动HomePageActivity。
+
 2. HomePageActivity直接启动ExImageActivity。
+
 ```java
     startActivity(new Intent(HomePageActivity.this, ExImageActivity.class));
 ```
+
 3. ExImageActivity启动的时候，直接创建一个异步任务，将内建的图片地址作为参数传入，并执行此异步任务。
+
 ```java
         String url = "http://himg2.huanqiu.com/attachment2010/2018/1117/20181117082418674.png";
         new MyAsyncTask1().execute(url);
 ```
+
 4. 在异步任务的onPreExecute()方法中，将进度条显示出来。
+
 ```java
         @Override
         protected void onPreExecute() {
@@ -19,6 +25,7 @@
         }
 ```
 5. 在异步任务的doInBackground()方法中，使用传进来的图片地址，读取并下载图片。在这个过程中，注意异常的捕获和处理。
+
 ```java
         @Override
         protected Bitmap doInBackground(String... strings) {
@@ -57,7 +64,9 @@
             return bitmap;
         }
 ```
+
 6. 在异步任务的onPostExecute()方法中，将进度条隐藏。如果成功读取了网络上的图片，则将图片显示出来。
+
 ```java
         @Override
         protected void onPostExecute(Bitmap bitmap) {
@@ -73,6 +82,7 @@
 
 ## HomeActivity的全部代码
 > activity_home_page.xml
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -93,6 +103,7 @@
 ```
 
 > HomePageActivity.java
+
 ```java
 package com.mydemo.demoapplication.activity;
 
@@ -126,6 +137,7 @@ public class HomePageActivity extends AppCompatActivity {
 
 ## ExImageActivity的全部代码
 > activity_ex_image.xml
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -154,6 +166,7 @@ public class HomePageActivity extends AppCompatActivity {
 ```
 
 > ExImageActivity.java
+
 ```java
 package com.mydemo.demoapplication.activity;
 
