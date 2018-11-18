@@ -7,6 +7,7 @@
 - [One utility-class to operate RSA](./0006_RSA_Utils.md)
 - [Learn to use AsyncTask to load image from internet](./0007_AsyncTask_Study.md)
 - [Use WeakReference when work with Handler](./0008_WeakReference_Handler.md)
+- [Define a custom title-bar](./0009_Custom_TitleBar.md)
 
 
 ## Back to [Home](../README.md)

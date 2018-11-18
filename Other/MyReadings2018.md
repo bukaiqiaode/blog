@@ -73,5 +73,8 @@
 - 20181116 [基于SpringCloud的微服务架构演变史？](https://mp.weixin.qq.com/s/nLjmWGa0OyueddiV_a13Eg)
 - 20181117 [Gson解析Json数据的两种方式](https://blog.csdn.net/huplion/article/details/78984977)
 - 20181117 [解决Android客户端RSA解密部分乱码的问题](https://blog.csdn.net/totcw/article/details/72820444)
+- 20181118 [两分钟理解Android中PX、DP、SP的区别](https://blog.csdn.net/donkor_/article/details/77680042)
+- 20181118 [Android自定义实现微信标题栏](https://www.cnblogs.com/cxyc/p/5377873.html)
+- 20181118 [Android 自定义控件 自定义标题栏](https://blog.csdn.net/plain_maple/article/details/52651171)
 
 ## Back to [index](./index.md)
