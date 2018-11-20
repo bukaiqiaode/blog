@@ -75,5 +75,9 @@
 - 20181119 [Redis简介以及和其他缓存数据库的区别](https://blog.csdn.net/xlgen157387/article/details/60761232/)
 - 20181119 [你中了feed流的“毒”你知道吗？](https://mp.weixin.qq.com/s/VUgW5eAjb9z9YuRiypiddA)
 - 20181119 [RBAC用户权限管理数据库设计](https://www.cnblogs.com/hellokitty1/p/5916070.html)
+- 20181120 [Java 8，HashMap中的红黑树操作](https://mp.weixin.qq.com/s/l7Dg5TwfQCHZjjxMPJuAFw)
+- 20181120 [漫画：什么是红黑树？](https://mp.weixin.qq.com/s/jz1ajDUygZ7sXLQFHyfjWA)
+- 20181120 [通用PopupWindow，几行代码搞定PopupWindow弹窗（续）](https://www.jianshu.com/p/46d13fe78099)
+- 20181120 [Android PopupWindow仿微信、QQ、支付宝右上角弹出效果（超详细）](https://www.jianshu.com/p/2adaa6a5f85f)
 
 ## Back to [index](./index.md)
