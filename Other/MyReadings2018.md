@@ -79,5 +79,10 @@
 - 20181120 [漫画：什么是红黑树？](https://mp.weixin.qq.com/s/jz1ajDUygZ7sXLQFHyfjWA)
 - 20181120 [通用PopupWindow，几行代码搞定PopupWindow弹窗（续）](https://www.jianshu.com/p/46d13fe78099)
 - 20181120 [Android PopupWindow仿微信、QQ、支付宝右上角弹出效果（超详细）](https://www.jianshu.com/p/2adaa6a5f85f)
+- 20181121 [全面了解Nginx到底能做什么](https://mp.weixin.qq.com/s/MBaitxypCJg3PYUpk_iijQ)
+- 20181121 [Linux中find命令用法全汇总，看完就没有不会用的！](https://mp.weixin.qq.com/s/hGijCrOdVbZdd7tt129K8Q)
+- 20181121 [漫画：如何实现大整数相加？（修订版）](https://mp.weixin.qq.com/s/GXclPfm_L2kIGAjgLSPX5g)
+- 20181121 [Spring Cloud Alibaba，中国 Javaer 的福音，为微服务续上 18 年](https://mp.weixin.qq.com/s/jArp9LUnLv9jveh9qTndfA)
+- 20181121 [[转]微服务架构的理论基础 - 康威定律](https://www.cnblogs.com/gudi/p/6685474.html)
 
 ## Back to [index](./index.md)
