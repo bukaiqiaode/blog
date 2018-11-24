@@ -86,5 +86,7 @@
 - 20181121 [[转]微服务架构的理论基础 - 康威定律](https://www.cnblogs.com/gudi/p/6685474.html)
 - 20181121 [控制反转](https://baike.baidu.com/item/%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC/1158025)
 - 20181124 [BottomNavigationView + ViewPager + Fragment 实现左右滑动效果](https://www.jianshu.com/p/3fe2d34770e5)
+- 20181124 [写给小白——recyclerview的基本使用（毫无杂质版）](https://www.jianshu.com/p/bb6b029de04f)
+- 20181124 [Android RecyclerView下拉刷新 & 上拉加载更多](https://www.jianshu.com/p/b502c5b59998)
 
 ## Back to [index](./index.md)
