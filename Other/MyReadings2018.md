@@ -84,5 +84,7 @@
 - 20181121 [漫画：如何实现大整数相加？（修订版）](https://mp.weixin.qq.com/s/GXclPfm_L2kIGAjgLSPX5g)
 - 20181121 [Spring Cloud Alibaba，中国 Javaer 的福音，为微服务续上 18 年](https://mp.weixin.qq.com/s/jArp9LUnLv9jveh9qTndfA)
 - 20181121 [[转]微服务架构的理论基础 - 康威定律](https://www.cnblogs.com/gudi/p/6685474.html)
+- 20181121 [控制反转](https://baike.baidu.com/item/%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC/1158025)
+- 20181124 [BottomNavigationView + ViewPager + Fragment 实现左右滑动效果](https://www.jianshu.com/p/3fe2d34770e5)
 
 ## Back to [index](./index.md)
