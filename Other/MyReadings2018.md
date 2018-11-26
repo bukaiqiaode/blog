@@ -89,4 +89,6 @@
 - 20181124 [写给小白——recyclerview的基本使用（毫无杂质版）](https://www.jianshu.com/p/bb6b029de04f)
 - 20181124 [Android RecyclerView下拉刷新 & 上拉加载更多](https://www.jianshu.com/p/b502c5b59998)
 
+- 20181126 [RecyclerView系列之（1）：为RecyclerView添加Header和Footer](https://www.jianshu.com/p/991062d964cf)
+- 20181126 [最简单最时尚的安卓时间选择器](https://blog.csdn.net/shenggaofei/article/details/77947221)
 ## Back to [index](./index.md)
