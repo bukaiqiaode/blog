@@ -91,4 +91,8 @@
 
 - 20181126 [RecyclerView系列之（1）：为RecyclerView添加Header和Footer](https://www.jianshu.com/p/991062d964cf)
 - 20181126 [最简单最时尚的安卓时间选择器](https://blog.csdn.net/shenggaofei/article/details/77947221)
+- 20181129 [Redis学习：如何跳出SQL这个坑](https://www.cnblogs.com/wzsblogs/p/5341479.html)
+
+# 2018-12
+
 ## Back to [index](./index.md)
