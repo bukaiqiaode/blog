@@ -95,5 +95,7 @@
 
 # 2018-12
 - 20181203 [JVM完全指南](https://mp.weixin.qq.com/s/_fbkqgEtYGxttWWip8Esjw)
+- 20181204 [GitHub一万多Star，一个可视化学算法的好工具](https://mp.weixin.qq.com/s/-FiEnzjrSQBuAYWkZjZaZg)
+- 20181204 [带你解决 WebView 里的常见问题，建议收藏备用](https://mp.weixin.qq.com/s/qqGSFjiVzp-r-tZ7tRXJuQ)
 
 ## Back to [index](./index.md)
