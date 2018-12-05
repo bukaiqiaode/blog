@@ -97,5 +97,8 @@
 - 20181203 [JVM完全指南](https://mp.weixin.qq.com/s/_fbkqgEtYGxttWWip8Esjw)
 - 20181204 [GitHub一万多Star，一个可视化学算法的好工具](https://mp.weixin.qq.com/s/-FiEnzjrSQBuAYWkZjZaZg)
 - 20181204 [带你解决 WebView 里的常见问题，建议收藏备用](https://mp.weixin.qq.com/s/qqGSFjiVzp-r-tZ7tRXJuQ)
+- 20181205 [简单实用的Android下拉刷新和上拉加载控件PullRecyclerView](https://www.jianshu.com/p/b178276c1443)
+- 20181205 [Linux中不可错过的信息宝库](https://mp.weixin.qq.com/s/o8W9lMPjsoCp7RuJqQt2lA)
+- 20181205 [Java当中的常量池](https://mp.weixin.qq.com/s/oP6nRP1NWaA31p92afax3Q)
 
 ## Back to [index](./index.md)
