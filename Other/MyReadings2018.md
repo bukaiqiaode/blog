@@ -101,4 +101,6 @@
 - 20181205 [Linux中不可错过的信息宝库](https://mp.weixin.qq.com/s/o8W9lMPjsoCp7RuJqQt2lA)
 - 20181205 [Java当中的常量池](https://mp.weixin.qq.com/s/oP6nRP1NWaA31p92afax3Q)
 
+- 20181213 [面试题解析:循环左移数组元素(韩信点兵)](https://mp.weixin.qq.com/s/v3Fw8_QRq9dKm-Q4VFuM-g)
+
 ## Back to [index](./index.md)
