@@ -103,6 +103,7 @@
 
 - 20181213 [面试题解析:循环左移数组元素(韩信点兵)](https://mp.weixin.qq.com/s/v3Fw8_QRq9dKm-Q4VFuM-g)
 
+- 20181218 [Centos配置Jenkins实现Android自动打包并上传到蒲公英](https://mp.weixin.qq.com/s/pgAS11TdrgY8zy7hAYojkQ)
 - 20181218 [Gradle(一)----WIN10安装Gradle](https://blog.csdn.net/u011781521/article/details/52986762)
 - 20181218 [win10环境下Android SDK下载安装及配置教程](https://blog.csdn.net/Fhujinwu/article/details/79072526)
 - 20181218 [win10+jenkins+git+自动发布(搭建+构建)](https://blog.csdn.net/qq_36020545/article/details/71158066)
