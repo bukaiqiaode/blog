@@ -103,4 +103,10 @@
 
 - 20181213 [面试题解析:循环左移数组元素(韩信点兵)](https://mp.weixin.qq.com/s/v3Fw8_QRq9dKm-Q4VFuM-g)
 
+- 20181218 [Gradle(一)----WIN10安装Gradle](https://blog.csdn.net/u011781521/article/details/52986762)
+- 20181218 [win10环境下Android SDK下载安装及配置教程](https://blog.csdn.net/Fhujinwu/article/details/79072526)
+- 20181218 [win10+jenkins+git+自动发布(搭建+构建)](https://blog.csdn.net/qq_36020545/article/details/71158066)
+- 20181218 [Windows 系统 Jenkins + Gradle + GitHub 实现自动化打包APK](https://blog.csdn.net/chun_long/article/details/81131789)
+- 20181218 [Jenkins+Gradle实现android开发持续集成问题汇总](https://blog.csdn.net/hwhua1986/article/details/48155163)
+
 ## Back to [index](./index.md)
