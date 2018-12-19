@@ -109,5 +109,6 @@
 - 20181218 [win10+jenkins+git+自动发布(搭建+构建)](https://blog.csdn.net/qq_36020545/article/details/71158066)
 - 20181218 [Windows 系统 Jenkins + Gradle + GitHub 实现自动化打包APK](https://blog.csdn.net/chun_long/article/details/81131789)
 - 20181218 [Jenkins+Gradle实现android开发持续集成问题汇总](https://blog.csdn.net/hwhua1986/article/details/48155163)
+- 20181219 [10 张令人喷饭的程序员漫画](https://mp.weixin.qq.com/s/p5hNy9WYb9o3VaUioaPj_A)
 
 ## Back to [index](./index.md)
