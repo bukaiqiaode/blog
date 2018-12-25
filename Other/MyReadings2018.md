@@ -110,5 +110,11 @@
 - 20181218 [Windows 系统 Jenkins + Gradle + GitHub 实现自动化打包APK](https://blog.csdn.net/chun_long/article/details/81131789)
 - 20181218 [Jenkins+Gradle实现android开发持续集成问题汇总](https://blog.csdn.net/hwhua1986/article/details/48155163)
 - 20181219 [10 张令人喷饭的程序员漫画](https://mp.weixin.qq.com/s/p5hNy9WYb9o3VaUioaPj_A)
+- 20181221 [漫画趣解Linux内核](https://mp.weixin.qq.com/s/SaUnfh0Ly9TyjjuhbSDgxw)
+- 20181222 [Git分支操作介绍](https://bbs.hupu.com/24819592.html?share_from=kqapp)
+
+- 20181224 [SpringCloud中Redis的使用](https://www.cnblogs.com/ZnCl/p/7116840.html)
+- 20181224 [Java并发编程：CountDownLatch、CyclicBarrier和Semaphore](http://www.importnew.com/21889.html)
+- 20181225 [神奇的 Linux 命令行字符形状工具 boxes](https://mp.weixin.qq.com/s/KpbyHVE5MBwm5nvU5f3U5g)
 
 ## Back to [index](./index.md)
