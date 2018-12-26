@@ -116,5 +116,8 @@
 - 20181224 [SpringCloud中Redis的使用](https://www.cnblogs.com/ZnCl/p/7116840.html)
 - 20181224 [Java并发编程：CountDownLatch、CyclicBarrier和Semaphore](http://www.importnew.com/21889.html)
 - 20181225 [神奇的 Linux 命令行字符形状工具 boxes](https://mp.weixin.qq.com/s/KpbyHVE5MBwm5nvU5f3U5g)
+- 20181226 [Redis official site](https://redis.io/#)
+- 20181226 [Interactive Redis tutorial](http://try.redis.io/#)
+- 20181226 [Tutorial: Design and implementation of a simple Twitter clone using PHP and the Redis key-value store](https://redis.io/topics/twitter-clone)
 
 ## Back to [index](./index.md)
