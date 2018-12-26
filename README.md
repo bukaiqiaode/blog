@@ -5,6 +5,7 @@
 ### Articles related to [Jenkins](./Jenkins/index.md)
 ### Articles related to [PHP](./PHP/index.md)
 ### Articles related to [Python](./Python/index.md)
+### Articles related to [Redis](./Redis/index.md)
 ### [Others](./Other/index.md)
 
 ### Markdown
