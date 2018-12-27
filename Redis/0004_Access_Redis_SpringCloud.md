@@ -40,6 +40,6 @@ org.springframework.data.redis.RedisConnectionFailureException: Unable to connec
 > Comment the `requirepass` line and then set `protected-mode no` in `redis.conf`.
 
 ## References
-- [Official guide from Spring-Cloud org](https://cloud.spring.io/)
+- [Official guide from Spring-Cloud org](http://spring.io/guides/gs/messaging-redis/)
 
 ## Back to [index](./index.md)
