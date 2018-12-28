@@ -121,5 +121,6 @@
 - 20181226 [Tutorial: Design and implementation of a simple Twitter clone using PHP and the Redis key-value store](https://redis.io/topics/twitter-clone)
 - 20181227 [BitMap 算法介绍](https://mp.weixin.qq.com/s/f9zX-SV7m9qR0sEgY4_Fuw)
 - 20181227 [Spring Data Redis - Retwis-J](https://docs.spring.io/spring-data/data-keyvalue/examples/retwisj/current/)
+- 20181228 [如何使用RedisTemplate访问Redis数据结构](https://www.jianshu.com/p/7bf5dc61ca06/)
 
 ## Back to [index](./index.md)
