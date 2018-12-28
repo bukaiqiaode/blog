@@ -1,4 +1,5 @@
-# 2018-08
+# This document records my filtered readings during 2018
+## 2018-08
 - 20180813 [Explain on Agile, Scrum, Dev-Ops](https://www.cnblogs.com/JackMa/p/5267553.html)
 - 20180813 [品牌重塑,该如何下手?](https://mp.weixin.qq.com/s/AObb2yJwxz5Is3O6fopCaw)
 - 20180814 [微服务架构下的安全认证与鉴权](https://blog.csdn.net/jessise_zhan/article/details/80130532)
@@ -19,7 +20,7 @@
 - 20180829 [Zuul API权限控制](https://www.cnblogs.com/hyhnet/p/8097641.html)
 - 20180831 [Thinkphp5笔记](http://www.thinkphp.cn/topic/48029.html)
 
-# 2018-09
+## 2018-09
 - 20180903 [中国巨石入埃及记：一个有关韧性和弹性的故事](http://finance.sina.com.cn/zl/china/2018-09-03/zl-ihiqtcan0826520.shtml)
 
 - 20180914 [JPA Hibernate 中 String 类型的主键 Id](https://www.jianshu.com/p/5d3b8f13de8f)
@@ -34,7 +35,7 @@
 - 20180920 [基于 G6 和 React 的可视化图编辑器 GGEditor](https://mp.weixin.qq.com/s/sd7Yhwepsg75M6aBLgKRmQ)
 - 20180920 [产品设计中“+”功能的相关思考](https://mp.weixin.qq.com/s/kmQnyP24jLQrRnmD7evevA)
 
-# 2018-10
+## 2018-10
 - 20181009 [以手机淘宝为例，探索流量分发设计方法](https://mp.weixin.qq.com/s/oGvTb1eY3yrgJE90I5IBRQ)
 - 20181010 [nginx配置返回文本或json](https://www.cnblogs.com/freeweb/p/5944894.html)
 - 20181010 [Nginx静态文件路径配置](https://blog.csdn.net/spark_csdn/article/details/80836326)
@@ -52,7 +53,7 @@
 - 20181022 [mysql grant 用户权限总结](https://blog.csdn.net/anzhen0429/article/details/78296814)
 - 20181022 [设计一个通用的BaseActivity](https://blog.csdn.net/qq_25749749/article/details/81567766)
 
-# 2018-11
+## 2018-11
 - 20181029 [消息队列及常见消息队列介绍](http://www.cnblogs.com/Terry-Wu/p/7644279.html)
 - 20181029 [RSA加密算法的java实现](https://blog.csdn.net/cz0217/article/details/78426733)
 - 20181029 [Java--使用Base64编码对url传值](https://blog.csdn.net/qq_36411874/article/details/79624739)
@@ -93,7 +94,7 @@
 - 20181126 [最简单最时尚的安卓时间选择器](https://blog.csdn.net/shenggaofei/article/details/77947221)
 - 20181129 [Redis学习：如何跳出SQL这个坑](https://www.cnblogs.com/wzsblogs/p/5341479.html)
 
-# 2018-12
+## 2018-12
 - 20181203 [JVM完全指南](https://mp.weixin.qq.com/s/_fbkqgEtYGxttWWip8Esjw)
 - 20181204 [GitHub一万多Star，一个可视化学算法的好工具](https://mp.weixin.qq.com/s/-FiEnzjrSQBuAYWkZjZaZg)
 - 20181204 [带你解决 WebView 里的常见问题，建议收藏备用](https://mp.weixin.qq.com/s/qqGSFjiVzp-r-tZ7tRXJuQ)
