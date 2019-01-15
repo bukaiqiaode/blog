@@ -28,5 +28,6 @@
 - 20190115 [动画：什么是散列表？](https://mp.weixin.qq.com/s/mrhppPZB6ASTXrxG-Se70g)
 - 20190115 [Redis的n种妙用，不仅仅是缓存](https://mp.weixin.qq.com/s/ASzGn4op1ItKJxTn5ZJZHA)
 - 20190115 [连续轰炸8个月，元首为什么拿不下小小的英国？](https://mp.weixin.qq.com/s/3RWH2qHZl9HHU-VgGkBnzw)
+- 20190115 [Linux read在shell中的用法](https://mp.weixin.qq.com/s/XNONUMW2bMvqFkj0d6_ysg)
 
 ## Back to [index](./index.md)
