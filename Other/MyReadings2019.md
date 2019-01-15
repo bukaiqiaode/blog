@@ -22,4 +22,9 @@
 - 20190113 [山东省会变大了，就会变强么？](https://mp.weixin.qq.com/s/Ei95A84c0NfDGQaLzmFcyw)
 - 20190113 [订单处理减库存的设计](https://www.cnblogs.com/Leo_wl/p/4609338.html)
 
+- 20190114 [消息称瑞幸咖啡在港寻求IPO 投行已开始为其准备上市资料](https://xw.qq.com/tech/20190114001153/TEC2019011400115300)
+- 20190114 [我为什么要选择RabbitMQ ，RabbitMQ简介，各种MQ选型对比](https://www.sojson.com/blog/48.html)
+- 20190115 [面试官问你斐波那契数列的时候不要高兴得太早](https://mp.weixin.qq.com/s/9hcpIaFFuVVQ4MhT2aKNAA)
+- 20190115 [动画：什么是散列表？](https://mp.weixin.qq.com/s/mrhppPZB6ASTXrxG-Se70g)
+
 ## Back to [index](./index.md)
