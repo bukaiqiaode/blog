@@ -4,7 +4,7 @@
 - 20190102 [在购物车锁定库存和生成订单时锁定库存的优劣？（来源于网络）](https://www.jianshu.com/p/71fb28601c44)
 - 20190102 [Redis:存储对象的两种方式(序列化和json字符串)](https://blog.csdn.net/yangstarss/article/details/79568270)
 - 20190103 [即使被拖库，也可以保证密码不泄露-加盐](https://www.cnblogs.com/feng9exe/p/8119674.html)
-- 20190103 [如何对 1 千万个整数进行快速排序](https://mp.weixin.qq.com/s/OM3DmT33BVkR2Gy2-1jkag)
+- 20190103 [如何对1千万个整数进行快速排序](https://mp.weixin.qq.com/s/OM3DmT33BVkR2Gy2-1jkag)
 - 20190104 [京东运费模板的设置](http://mjbbs.jd.com/forum.php?mod=viewthread&tid=77292)
 - 20190104 [CPU 利用率](https://mp.weixin.qq.com/s/rQOLnLeL8h4EEzZYqYHttw)
 
@@ -29,5 +29,6 @@
 - 20190115 [Redis的n种妙用，不仅仅是缓存](https://mp.weixin.qq.com/s/ASzGn4op1ItKJxTn5ZJZHA)
 - 20190115 [连续轰炸8个月，元首为什么拿不下小小的英国？](https://mp.weixin.qq.com/s/3RWH2qHZl9HHU-VgGkBnzw)
 - 20190115 [Linux read在shell中的用法](https://mp.weixin.qq.com/s/XNONUMW2bMvqFkj0d6_ysg)
+- 20190116 [禅道搭建踩过的坑](https://blog.csdn.net/zhang18330699274/article/details/78117950)
 
 ## Back to [index](./index.md)
