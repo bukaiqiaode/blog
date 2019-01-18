@@ -1,5 +1,27 @@
 This snippet of code uses an encrypted data to do log-in check.
 
+## Imports
+```java
+import com.alibaba.fastjson.JSON;
+import com.domain.User;
+import com.domain.VO_User;
+import com.repository.UserRepository;
+import com.service.UserLoginServiceImpl;
+import com.utils.APIResult;
+import com.utils.LoginType;
+import com.utils.MD5Utils;
+import com.utils.RSAUtils;
+import com.utils.SysGlobalConstants;
+import com.utils.SysErrorMessages;
+
+import javax.servlet.http.HttpServletRequest;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.UUID;
+```
+
+## Code
 ```java
 	@RequestMapping(value = "login")
 	public Object login(@RequestParam(value = "account", defaultValue = "test") String u_account,
