@@ -30,5 +30,6 @@
 - 20190115 [连续轰炸8个月，元首为什么拿不下小小的英国？](https://mp.weixin.qq.com/s/3RWH2qHZl9HHU-VgGkBnzw)
 - 20190115 [Linux read在shell中的用法](https://mp.weixin.qq.com/s/XNONUMW2bMvqFkj0d6_ysg)
 - 20190116 [禅道搭建踩过的坑](https://blog.csdn.net/zhang18330699274/article/details/78117950)
+- 20190118 [交互细节--文案！文案！](https://mp.weixin.qq.com/s/W7Np2eVRGs6MI1dGjqWceg)
 
 ## Back to [index](./index.md)
