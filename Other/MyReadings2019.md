@@ -35,5 +35,8 @@
 - 20190121 [影子银行的传说](https://mp.weixin.qq.com/s/e77akm-M5x-to24y8bIqIA)
 - 20190121 [基数排序](https://mp.weixin.qq.com/s/iJ6tKGyDRG0uyGZdqA9TaA)
 - 20190121 [漫画：什么是加密算法？](https://mp.weixin.qq.com/s/mszEors5SK2rThqXF79PuQ)
+- 20190124 [俄国要想控制欧洲，最重要的海上力量是什么？](https://mp.weixin.qq.com/s/RAlvHl-obQB4zPO9-egzdw)
+- 20190124 [使用Android原生API绘制股票K线图](https://mp.weixin.qq.com/s/7Y0GO9slren5DedxFTEg9w)
+- 20190124 [分布式事务：深入理解什么是2PC、3PC及TCC协议](https://mp.weixin.qq.com/s/jQrPSmPhC_yNbIRcufR8KQ)
 
 ## Back to [index](./index.md)
