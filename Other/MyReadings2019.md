@@ -39,4 +39,11 @@
 - 20190124 [使用Android原生API绘制股票K线图](https://mp.weixin.qq.com/s/7Y0GO9slren5DedxFTEg9w)
 - 20190124 [分布式事务：深入理解什么是2PC、3PC及TCC协议](https://mp.weixin.qq.com/s/jQrPSmPhC_yNbIRcufR8KQ)
 
+- 20190125 [开源中国2018国外新增开源软件TOP 50](https://mp.weixin.qq.com/s/atzEtWN8pq0-NxRpxKaYCQ)
+- 20190125 [永续债，为啥比爱情还持久](https://mp.weixin.qq.com/s/3iLM_lxkZPovtkf21Br_ZA)
+- 20190125 [3个优秀的UI/UX设计案例](https://mp.weixin.qq.com/s/CSAxwRlyZvnqUXJWBWTOOQ)
+- 20190125 [JavaScript 实现自定义的生命周期](https://mp.weixin.qq.com/s/_hEN6SyFu-tmB25g_39-Sg)
+- 20190125 [一文看懂委内瑞拉拉黑美国的前前后后](https://mp.weixin.qq.com/s/7AnQsGbkt4IkUGF0Tysurw)
+- 20190125 [什么东西能同时迷住蒙古大汗和英国女王？](https://mp.weixin.qq.com/s/A2ExTdw2ftK3mT2pYxluuw)
+
 ## Back to [index](./index.md)
