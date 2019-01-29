@@ -47,4 +47,13 @@
 - 20190126 [Java 8的时间和Date的对比](https://mp.weixin.qq.com/s/L2suLl87XKS6P0ELJFjSVw)
 - 20190126 [中台是个什么鬼？](https://mp.weixin.qq.com/s/AFJyg4doi0hPZ6vcX7NoHA)
 
+- 20190128 [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
+- 20190128 [为什么你的 App 知道你想买什么](https://mp.weixin.qq.com/s/mq4SbBIzhp7LSQxZeIv-Ww)
+- 20190128 [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html)
+- 20190128 [RabitMQ tutorial => 1 Introduction](https://www.rabbitmq.com/tutorials/tutorial-one-java.html)
+- 20190129 [RabitMQ tutorial => 2 Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
+- 20190129 [RabitMQ tutorial => 3 Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-python.html)
+- 20190129 [RabitMQ tutorial => 4 Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
+- 20190129 [RabitMQ tutorial => 5 Topics](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
+
 ## Back to [index](./index.md)
