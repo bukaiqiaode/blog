@@ -55,5 +55,6 @@
 - 20190129 [RabitMQ tutorial => 3 Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-python.html)
 - 20190129 [RabitMQ tutorial => 4 Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
 - 20190129 [RabitMQ tutorial => 5 Topics](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
+- 20190130 [RabitMQ tutorial => 6 Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-python.html)
 
 ## Back to [index](./index.md)
