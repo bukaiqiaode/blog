@@ -56,5 +56,8 @@
 - 20190129 [RabitMQ tutorial => 4 Routing](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
 - 20190129 [RabitMQ tutorial => 5 Topics](https://www.rabbitmq.com/tutorials/tutorial-four-python.html)
 - 20190130 [RabitMQ tutorial => 6 Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-python.html)
+- 20190131 [Installing on RPM-based Linux (RHEL, CentOS, Fedora, openSUSE)](https://www.rabbitmq.com/install-rpm.html)
+- 20190131 [linux如何查看端口被哪个进程占用？](https://www.cnblogs.com/CEO-H/p/7794306.html)
+- 20190131 [Access Control (Authentication, Authorisation) in RabbitMQ](https://www.rabbitmq.com/access-control.html)
 
 ## Back to [index](./index.md)
