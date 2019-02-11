@@ -23,6 +23,9 @@ jargon                      ==> 行话
 ## L
 lag behind                  ==> 落后于...
 
+## M
+machinery [məˈʃi:nəri]      ==> 机器、装置
+
 ## S
 semicolon [ˌsemiˈkəʊlən]    ==> 分号
 spaghtti [spəˈgeti]         ==> 意大利面条
