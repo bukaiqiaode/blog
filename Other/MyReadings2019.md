@@ -66,5 +66,6 @@
 - 20190212 [微信支付（退款为例）](https://www.jianshu.com/p/fb5907e84498)
 - 20190213 [欧美步步紧逼，俄罗斯如何求生？](https://mp.weixin.qq.com/s/nx6byhhktYf89z9Y9-KBRA)
 - 20190213 [漫画：如何将一个链表“逆序”？](https://mp.weixin.qq.com/s/MR_qAbonFqGF_ljeWUC26w)
+- 20190213 [Spring boot 读取配置文件（application.yml）中的属性值](https://blog.csdn.net/qq_34288630/article/details/79006105)
 
 ## Back to [index](./index.md)
