@@ -72,5 +72,6 @@
 - 20190220 [《Stone小百科》--我无齿？还不是因为他们下流！](https://mp.weixin.qq.com/s/l1g3tGvb6-3kyCx5S1ebLw)
 - 20190220 [疟原虫治癌，反派大洗白？](https://mp.weixin.qq.com/s/3we9zroJZZx_DEv1T_ELAw)
 - 20190220 [搭建可自动伸缩的Discuz论坛网站](https://support.huaweicloud.com/bestpractice-as/zh-cn_topic_0076160210.html)
+- 20190220 [带着梦想去奔跑、去奋斗！王永康在市十六届人大四次会议闭幕式上的讲话（全文）](https://mp.weixin.qq.com/s/xUpJGcEMDuoauBuoHRXjyg)
 
 ## Back to [index](./index.md)
