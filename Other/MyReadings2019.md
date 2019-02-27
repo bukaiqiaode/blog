@@ -81,5 +81,8 @@
 - 20190225 [中国最有特色的23碗面，全部吃过的人你在哪里？](https://mp.weixin.qq.com/s/pO8swdo_oKBPpBpPY1S-zQ)
 - 20190226 [快速排序你真的会了吗？](https://mp.weixin.qq.com/s/9JScICC2Tgz8vd4OPCzFqQ)
 - 20190226 [山是如何改变陕西的？](https://mp.weixin.qq.com/s/GSjU-LslrDlUjhqROYNqfA)
+- 20190227 [谈谈怎么做【服务隔离】](https://mp.weixin.qq.com/s/M1AePRMGWh49mXcN9MyXGw)
+- 20190227 [所有优秀背后，都是苦行僧般的自律](https://mp.weixin.qq.com/s/u8xiinayBfTdvnp5pNEouA)
+- 20190227 [邓康明：复盘在阿里做人力资源的心得](https://mp.weixin.qq.com/s/AS5z-T0BF-bteiBSt-UL1g)
 
 ## Back to [index](./index.md)
