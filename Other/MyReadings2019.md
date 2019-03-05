@@ -85,4 +85,8 @@
 - 20190227 [所有优秀背后，都是苦行僧般的自律](https://mp.weixin.qq.com/s/u8xiinayBfTdvnp5pNEouA)
 - 20190227 [邓康明：复盘在阿里做人力资源的心得](https://mp.weixin.qq.com/s/AS5z-T0BF-bteiBSt-UL1g)
 
+## 2019-03
+- 20190305 [部署服务概述](https://support.huaweicloud.com/productdesc-deployman/deployman_pdtd_00001.html)
+- 20190305 [华为云---Java环境安装流程](https://support.huaweicloud.com/bestpractice-ecs/zh-cn_topic_0114925484.html)
+
 ## Back to [index](./index.md)
