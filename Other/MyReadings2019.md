@@ -89,4 +89,7 @@
 - 20190305 [部署服务概述](https://support.huaweicloud.com/productdesc-deployman/deployman_pdtd_00001.html)
 - 20190305 [华为云---Java环境安装流程](https://support.huaweicloud.com/bestpractice-ecs/zh-cn_topic_0114925484.html)
 
+- 20190312 [「痣」要恶变的8个信号！医生教你一眼辨别](https://mp.weixin.qq.com/s/ESH7D_rWj9r70pimToPmyw)
+- 20190312 [「口臭」严重却不自知？5招让口气清新起来!](https://mp.weixin.qq.com/s/UiYvCaRrsPyjuRxAkqZ_9Q)
+
 ## Back to [index](./index.md)
