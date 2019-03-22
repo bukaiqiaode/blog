@@ -96,5 +96,6 @@
 - 20190320 [Linux下如何高效切换目录？](https://mp.weixin.qq.com/s/Oq6GtWXU5NAsoZthekd_bA)
 - 20190322 [上海人的圈子](https://mp.weixin.qq.com/s/IZsME_V7MxcJVQOx4aj9Tw)
 - 20190322 [晋西北为什么乱成了一锅粥？](https://mp.weixin.qq.com/s/HvL94jhOYhcKrTNBU0ZL8w)
+- 20190322 [vim三种模式下的小技巧，提高一半工作效率](https://mp.weixin.qq.com/s/XgKK9kyuaBwF8x4caBULYQ)
 
 ## Back to [index](./index.md)
