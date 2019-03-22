@@ -94,5 +94,7 @@
 - 20190313 [前沿观察 | 图数据库项目DGraph的前世今生](https://mp.weixin.qq.com/s/M1O7iVT6SoZgKwxiU0wTPQ)
 
 - 20190320 [Linux下如何高效切换目录？](https://mp.weixin.qq.com/s/Oq6GtWXU5NAsoZthekd_bA)
+- 20190322 [上海人的圈子](https://mp.weixin.qq.com/s/IZsME_V7MxcJVQOx4aj9Tw)
+- 20190322 [晋西北为什么乱成了一锅粥？](https://mp.weixin.qq.com/s/HvL94jhOYhcKrTNBU0ZL8w)
 
 ## Back to [index](./index.md)
