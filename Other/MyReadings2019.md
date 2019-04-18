@@ -104,4 +104,8 @@
 - 20190410 [P2P | 扫雷图鉴](https://mp.weixin.qq.com/s/w3RpjpNAjrGoO5DJAt3grA)
 - 20190410 [漫画：图的 “最短路径” 问题](https://mp.weixin.qq.com/s/gjjrsj95X4w7QdWBlAKnaA)
 
+- 20190415 [《Stone小百科》--节气没啥用？ 少了他们，你连饭都吃不上！](https://mp.weixin.qq.com/s/UKJxHyp9t5bqKcI2v7OydQ)
+- 20190418 [从产品角度，看小程序的设计](https://mp.weixin.qq.com/s/QSmN7ybH82tOoU3BEAB3Bg)
+- 20190418 [“败家式分红”惹争议，吉比特财务状况到底如何？](https://apicdn.app.gtja.com/web2/infoshare/index.html?url=https://apicdn.app.gtja.com/news/detailDZH/2019/04/17/608783133242913.json&from=singlemessage&isappinstalled=1&isyyzshare=1)
+
 ## Back to [index](./index.md)
