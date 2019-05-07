@@ -110,5 +110,14 @@
 - 20190423 [唐朝是如何被饿死的？](https://mp.weixin.qq.com/s/Nk3a2ujjWmeKCJE82gud6g)
 - 20190423 [简书: 蓝士钦](https://www.jianshu.com/u/082f73dac819)
 - 20190423 [SpringCloud(一)：服务注册中心与集群](https://www.jianshu.com/p/a723009526b7)
+- 20190424 [SpringCloud(二)：服务调用与负载均衡](https://www.jianshu.com/p/d815f0c3820d)
+- 20190424 [SpringCloud(三)：配置中心与git托管](https://www.jianshu.com/p/768b57968607)
+- 20190424 [SpringCloud(七)：搭建OAuth2认证授权服务](https://www.jianshu.com/p/c274f4acadb5)
+- 20190426 [Database Driven Application With NetBeans-IDE-PHP](https://netbeans.org/kb/docs/php/wish-list-tutorial-main-page.html)
+- 20190426 [Lesson 1a: Creating a MySQL Database](https://netbeans.org/kb/docs/php/wish-list-lesson1.html)
+
+## 2019-05
+- 20190505 [Eclipse PDT打开ThinkPHP项目](https://www.cnblogs.com/isun/p/4374579.html)
+- 20190507 [Thinkphp5 加载静态资源路径与常量的方法](https://www.nuoweb.com/program/10296.html)
 
 ## Back to [index](./index.md)
