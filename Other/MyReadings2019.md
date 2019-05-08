@@ -119,5 +119,8 @@
 ## 2019-05
 - 20190505 [Eclipse PDT打开ThinkPHP项目](https://www.cnblogs.com/isun/p/4374579.html)
 - 20190507 [Thinkphp5 加载静态资源路径与常量的方法](https://www.nuoweb.com/program/10296.html)
+- 20190507 [jQuery md5加密插件jQuery.md5.js用法示例](https://www.jb51.net/article/146195.htm)
+- 20190507 [spring boot 通过Maven + tomcat 自动化部署](https://www.cnblogs.com/taiguyiba/p/9231490.html)
+- 20190507 [这种应季水果的“核”千万不能吃！快告诉身边的孩子](https://mp.weixin.qq.com/s/MOmnX0HxZavs5qd6fiQDJA)
 
 ## Back to [index](./index.md)
