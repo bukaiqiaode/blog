@@ -123,4 +123,7 @@
 - 20190507 [spring boot 通过Maven + tomcat 自动化部署](https://www.cnblogs.com/taiguyiba/p/9231490.html)
 - 20190507 [这种应季水果的“核”千万不能吃！快告诉身边的孩子](https://mp.weixin.qq.com/s/MOmnX0HxZavs5qd6fiQDJA)
 
+## 2019-08
+- 20190820 [Layu中实现layer父子页面传值交互](https://blog.csdn.net/coderbruis/article/details/82424862)
+
 ## Back to [index](./index.md)
