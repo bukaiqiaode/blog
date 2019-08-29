@@ -129,5 +129,6 @@
 
 ## 2019-08
 - 20190820 [Layu中实现layer父子页面传值交互](https://blog.csdn.net/coderbruis/article/details/82424862)
+- 20190829 [解决 MySQL 异常 Communications link failure](https://blog.rj-bai.com/post/141.html)
 
 ## Back to [index](./index.md)
