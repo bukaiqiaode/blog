@@ -122,5 +122,9 @@
 - 20190507 [jQuery md5加密插件jQuery.md5.js用法示例](https://www.jb51.net/article/146195.htm)
 - 20190507 [spring boot 通过Maven + tomcat 自动化部署](https://www.cnblogs.com/taiguyiba/p/9231490.html)
 - 20190507 [这种应季水果的“核”千万不能吃！快告诉身边的孩子](https://mp.weixin.qq.com/s/MOmnX0HxZavs5qd6fiQDJA)
+- 20190509 [springboot thymeleaf 整合 百度富文本编辑器UEditor进行图片上传](https://www.jianshu.com/p/ad9c998809e3)
+
+- 20190524 [百度UEditor插入图片尺寸自动适应编辑框大小问题](https://blog.csdn.net/u010320371/article/details/51536566)
+- 20190524 [UEditor文档](https://fex.baidu.com/ueditor/#use-format_upload_filename)
 
 ## Back to [index](./index.md)
