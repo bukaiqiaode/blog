@@ -127,4 +127,7 @@
 - 20190524 [百度UEditor插入图片尺寸自动适应编辑框大小问题](https://blog.csdn.net/u010320371/article/details/51536566)
 - 20190524 [UEditor文档](https://fex.baidu.com/ueditor/#use-format_upload_filename)
 
+## 2019-08
+- 20190820 [Layu中实现layer父子页面传值交互](https://blog.csdn.net/coderbruis/article/details/82424862)
+
 ## Back to [index](./index.md)
