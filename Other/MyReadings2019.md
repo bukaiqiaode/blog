@@ -134,4 +134,7 @@
 ## 2019-09
 - 20190901 [java的list的几种排序写法整理](https://blog.csdn.net/heliangb46/article/details/77188939)
 
+## 2019-11
+- 20191113 [IntelliJ IDEA 详细图解最常用的配置 ，适合刚刚用的新人](https://blog.csdn.net/qq_27093465/article/details/52918873)
+
 ## Back to [index](./index.md)
