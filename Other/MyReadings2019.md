@@ -140,5 +140,6 @@
 
 - 20191119 [这些只有程序员才能懂，Java被黑的太惨！](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/90817474)
 - 20191119 [代码注释照样可以玩出花来](https://blog.csdn.net/mingongge/article/details/102866814)
+- 20191119 [克鲁斯卡尔算法](https://baike.baidu.com/item/%E5%85%8B%E9%B2%81%E6%96%AF%E5%8D%A1%E5%B0%94%E7%AE%97%E6%B3%95/4455899?fr=aladdin)
 
 ## Back to [index](./index.md)
