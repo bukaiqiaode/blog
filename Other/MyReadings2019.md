@@ -139,6 +139,6 @@
 - 20191114 [把自己当成一家企业，思考你该如何工作](https://news.hexun.com/2019-11-12/199244289.html)
 
 - 20191119 [这些只有程序员才能懂，Java被黑的太惨！](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/90817474)
-- 20191119 [代码注释照样可以玩出花来](http://www.pianshen.com/article/3841703530)
+- 20191119 [代码注释照样可以玩出花来](https://blog.csdn.net/mingongge/article/details/102866814)
 
 ## Back to [index](./index.md)
