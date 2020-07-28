@@ -138,4 +138,13 @@
 - 20190902 [JsTree 最详细教程及完整实例](https://www.iteye.com/blog/yiding-123-2345329)
 - 20190902 [JsTree Official Site](https://www.jstree.com)
 
+## 2019-11
+- 20191113 [IntelliJ IDEA 详细图解最常用的配置 ，适合刚刚用的新人](https://blog.csdn.net/qq_27093465/article/details/52918873)
+- 20191114 [把自己当成一家企业，思考你该如何工作](https://news.hexun.com/2019-11-12/199244289.html)
+
+- 20191119 [这些只有程序员才能懂，Java被黑的太惨！](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/90817474)
+- 20191119 [代码注释照样可以玩出花来](https://blog.csdn.net/mingongge/article/details/102866814)
+- 20191119 [克鲁斯卡尔算法](https://baike.baidu.com/item/%E5%85%8B%E9%B2%81%E6%96%AF%E5%8D%A1%E5%B0%94%E7%AE%97%E6%B3%95/4455899?fr=aladdin)
+- 20191121 [Redis 到底是怎么实现“附近的人”这个功能的？](https://www.cnblogs.com/ningbj/p/11711875.html)
+
 ## Back to [index](./index.md)
